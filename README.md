@@ -1,6 +1,6 @@
-# Project AI For Medical Image Analysis
+# Project: AI For Medical Image Analysis
 
-The following codebase supplements the paper *"Learning to Detect Histopathologic Cancer using Attention"*.
+The following codebase supplements the paper [*"Learning to Detect Histopathologic Cancer using Attention"*](https://www.overleaf.com/read/xjhpqwhwxnqz).
 
 ![Attention Maps](output.png)
 
